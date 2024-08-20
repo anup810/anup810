@@ -39,6 +39,4 @@ A passionate iOS developer from Canada.
 - 🧠 **Knowledge in Python and Machine Learning**
 - 🚀 **Specialized in Swift, Vapor, SwiftUI, and Core Data**
 
-## My Portfolio:
-Explore more of my work and background on [GitHub](https://github.com/anup810).
 
