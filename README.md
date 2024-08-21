@@ -13,17 +13,17 @@ A passionate iOS developer from Canada.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupsaud1/)
 
 ## Languages and Tools:
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Vapor](https://img.shields.io/badge/Vapor-00BFFF?style=for-the-badge&logo=vapor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Core Data](https://img.shields.io/badge/CoreData-4A154B?style=for-the-badge&logo=core-data&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Vapor](https://img.shields.io/badge/Vapor-00BFFF?style=for-the-badge&logo=vapor&logoColor=white)](https://vapor.codes/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Core Data](https://img.shields.io/badge/CoreData-4A154B?style=for-the-badge&logo=core-data&logoColor=white)](https://developer.apple.com/documentation/coredata/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## Most Used Languages:
-![Swift](https://img.shields.io/badge/Swift-55.0%25-orange)
-![Python](https://img.shields.io/badge/Python-25.0%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-15.0%25-yellow)
+[![Swift](https://img.shields.io/badge/Swift-55.0%25-orange)](https://developer.apple.com/swift/)
+[![Python](https://img.shields.io/badge/Python-25.0%25-blue)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-15.0%25-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Pinned Projects:
 - [HP-Trivia](https://github.com/anup810/HP-Trivia): An interactive trivia game with rich animations and sound effects.
@@ -32,7 +32,6 @@ A passionate iOS developer from Canada.
 - [Dex3App](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and learn about different Pokémon species.
 - [MedWise](https://github.com/pawan779/MedWise-Capstone-Project): An iOS app for medication management developed as a capstone project.
 
-
 ## My GitHub Stats:
 ![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anup810&show_icons=true&theme=radical)
 
@@ -40,5 +39,4 @@ A passionate iOS developer from Canada.
 - 🌟 **1.5 years of experience in iOS development**
 - 🧠 **Knowledge in Python and Machine Learning**
 - 🚀 **Specialized in Swift, Vapor, SwiftUI, and Core Data**
-
 
