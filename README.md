@@ -30,6 +30,8 @@ A passionate iOS developer from Canada.
 - [StarTrivia](https://github.com/anup810/StarTrivia): A trivia game based on the Star Wars universe.
 - [weather360](https://github.com/anup810/weather360): A weather app developed as a part of my final project at Fanshawe College.
 - [Dex3App](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and learn about different Pokémon species.
+- [MedWise](https://github.com/pawan779/MedWise-Capstone-Project): An iOS app for medication management developed as a capstone project.
+
 
 ## My GitHub Stats:
 ![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anup810&show_icons=true&theme=radical)
