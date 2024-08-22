@@ -18,6 +18,12 @@ A passionate iOS developer from Canada.
 [![Vapor](https://img.shields.io/badge/Vapor-00BFFF?style=for-the-badge&logo=vapor&logoColor=white)](https://vapor.codes/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Core Data](https://img.shields.io/badge/CoreData-4A154B?style=for-the-badge&logo=core-data&logoColor=white)](https://developer.apple.com/documentation/coredata/)
+[![Core ML](https://img.shields.io/badge/CoreML-5D90FF?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/coreml/)
+[![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)](https://developer.apple.com/documentation/uikit/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0062B1?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Combine](https://img.shields.io/badge/Combine-0056D1?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/combine/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## Most Used Languages:
