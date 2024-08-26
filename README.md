@@ -2,8 +2,7 @@
 
 A passionate iOS developer from Canada.
 
-- 🔭 I’m currently working on [HP-Trivia](https://github.com/anup810/HP-Trivia)
-- 🌱 I’m currently learning Vapor, SwiftUI, and Core Data
+- 🌱 I’m currently learning AWS Cloud Practitioner, Vapor, SwiftUI, and Core Data
 - 👯 I’m looking to collaborate on iOS Development Projects
 - 💬 Ask me about iOS, Swift, Vapor, Python, and Machine Learning
 - 📫 How to reach me **anupsaud10@gmail.com**
@@ -45,4 +44,3 @@ A passionate iOS developer from Canada.
 - 🌟 **1.5 years of experience in iOS development**
 - 🧠 **Knowledge in Python and Machine Learning**
 - 🚀 **Specialized in Swift, Vapor, SwiftUI, and Core Data**
-
