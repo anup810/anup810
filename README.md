@@ -2,9 +2,9 @@
 
 A passionate iOS developer from Canada.
 
-- 🌱 I’m currently learning AWS Cloud Practitioner, Vapor, SwiftUI, and Core Data
+- 🌱 I’m currently learning Vapor and Core Data
 - 👯 I’m looking to collaborate on iOS Development Projects
-- 💬 Ask me about iOS, Swift, Vapor, Python, and Machine Learning
+- 💬 Ask me about iOS, Swift, Vapor, Python, Machine Learning, and AWS
 - 📫 How to reach me **anupsaud10@gmail.com**
 - ⚡ Fun fact **I love exploring new technologies and spending time outdoors**
 
@@ -24,6 +24,7 @@ A passionate iOS developer from Canada.
 [![Combine](https://img.shields.io/badge/Combine-0056D1?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/combine/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ## Most Used Languages:
 [![Swift](https://img.shields.io/badge/Swift-55.0%25-orange)](https://developer.apple.com/swift/)
@@ -42,5 +43,5 @@ A passionate iOS developer from Canada.
 
 ## Achievements:
 - 🌟 **1.5 years of experience in iOS development**
-- 🧠 **Knowledge in Python and Machine Learning**
+- 🧠 **Knowledge in Python, Machine Learning, and AWS**
 - 🚀 **Specialized in Swift, Vapor, SwiftUI, and Core Data**
