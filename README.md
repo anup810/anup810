@@ -31,12 +31,14 @@ A passionate iOS developer from Canada.
 [![Python](https://img.shields.io/badge/Python-25.0%25-blue)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-15.0%25-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+
 ## Pinned Projects:
 - [HP-Trivia](https://github.com/anup810/HP-Trivia): An interactive trivia game with rich animations and sound effects.
 - [StarTrivia](https://github.com/anup810/StarTrivia): A trivia game based on the Star Wars universe.
-- [weather360](https://github.com/anup810/weather360): A weather app developed as a part of my final project at Fanshawe College.
+- [Artable](https://github.com/anup810/Artable): An app for browsing and purchasing artworks, along with an admin interface for managing products.
 - [Dex3App](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and learn about different Pokémon species.
 - [MedWise](https://github.com/pawan779/MedWise-Capstone-Project): An iOS app for medication management developed as a capstone project.
+
 
 ## My GitHub Stats:
 ![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anup810&show_icons=true&theme=radical)
