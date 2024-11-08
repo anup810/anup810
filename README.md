@@ -1,17 +1,20 @@
 # Hi 👋, I'm Anup Saud
 
-A passionate iOS developer from Canada.
+A passionate iOS and Android developer based in Canada, specializing in crafting seamless, user-centered mobile applications.
 
-- 🌱 I’m currently learning Vapor and Core Data
-- 👯 I’m looking to collaborate on iOS Development Projects
-- 💬 Ask me about iOS, Swift, Vapor, Python, Machine Learning, and AWS
-- 📫 How to reach me **anupsaud10@gmail.com**
-- ⚡ Fun fact **I love exploring new technologies and spending time outdoors**
+- 🌱 **Currently learning**: Android Development
+- 👯 **Looking to collaborate on**: iOS and Android Development projects, and open-source contributions
+- 💬 **Ask me about**: iOS, Swift, Vapor, Python, Machine Learning, AWS, and Android Development
+- 📫 **Reach me at**: **anupsaud10@gmail.com**
+- ⚡ **Fun fact**: I’m always exploring new technologies and love spending time outdoors
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupsaud1/)
 
+---
+
 ## Languages and Tools:
+
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Vapor](https://img.shields.io/badge/Vapor-00BFFF?style=for-the-badge&logo=vapor&logoColor=white)](https://vapor.codes/)
@@ -26,24 +29,28 @@ A passionate iOS developer from Canada.
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-## Most Used Languages:
-[![Swift](https://img.shields.io/badge/Swift-55.0%25-orange)](https://developer.apple.com/swift/)
-[![Python](https://img.shields.io/badge/Python-25.0%25-blue)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-15.0%25-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+---
 
+## Pinned Projects
 
-## Pinned Projects:
-- [HP-Trivia](https://github.com/anup810/HP-Trivia): An interactive trivia game with rich animations and sound effects.
-- [StarTrivia](https://github.com/anup810/StarTrivia): A trivia game based on the Star Wars universe.
-- [Artable](https://github.com/anup810/Artable): An app for browsing and purchasing artworks, along with an admin interface for managing products.
-- [Dex3App](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and learn about different Pokémon species.
-- [MedWise](https://github.com/pawan779/MedWise-Capstone-Project): An iOS app for medication management developed as a capstone project.
+- [**HP Trivia**](https://github.com/anup810/HP-Trivia): An interactive trivia game with animations and sound effects, showcasing AVFoundation integration.
+- [**StarTrivia**](https://github.com/anup810/StarTrivia): A Star Wars-themed trivia app with character insights and animated gameplay.
+- [**Artable**](https://github.com/anup810/Artable): An e-commerce app for browsing and purchasing artwork, complete with an admin interface, Firebase authentication, Firestore database, and Stripe payments.
+- [**Dex3App**](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and explore Pokémon species.
+- [**MedWise**](https://github.com/pawan779/MedWise-Capstone-Project): A medication management app, developed as a capstone project, to help users track their medication schedules.
 
+---
 
-## My GitHub Stats:
+## GitHub Stats
+
 ![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anup810&show_icons=true&theme=radical)
 
-## Achievements:
+---
+
+## Achievements
+
 - 🌟 **1.5 years of experience in iOS development**
-- 🧠 **Knowledge in Python, Machine Learning, and AWS**
-- 🚀 **Specialized in Swift, Vapor, SwiftUI, and Core Data**
+- 🧠 **Proficient in Python, Machine Learning, and AWS**
+- 🚀 **Expertise in Swift, Vapor, SwiftUI, and Core Data**
+
+---
