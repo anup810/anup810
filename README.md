@@ -31,13 +31,14 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 
 ---
 
-## Pinned Projects
+# Pinned Projects
 
 - [**HP Trivia**](https://github.com/anup810/HP-Trivia): An interactive trivia game with animations and sound effects, showcasing AVFoundation integration.
-- [**StarTrivia**](https://github.com/anup810/StarTrivia): A Star Wars-themed trivia app with character insights and animated gameplay.
+- [**Omnifood**](https://github.com/anup810/Omnifood): A website using HTML and CSS, designed for the Omni Food company to showcase its services.
 - [**Artable**](https://github.com/anup810/Artable): An e-commerce app for browsing and purchasing artwork, complete with an admin interface, Firebase authentication, Firestore database, and Stripe payments.
 - [**Dex3App**](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and explore Pokémon species.
 - [**MedWise**](https://github.com/pawan779/MedWise-Capstone-Project): A medication management app, developed as a capstone project, to help users track their medication schedules.
+
 
 ---
 
