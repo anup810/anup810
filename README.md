@@ -4,8 +4,8 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 
 - 🌱 **Currently learning**: Android Development
 - 👯 **Looking to collaborate on**: iOS and Android Development projects, and open-source contributions
-- 💬 **Ask me about**: iOS, Swift, Vapor, Python, Machine Learning, AWS, and Android Development
-- 📫 **Reach me at**: **anupsaud10@gmail.com**
+- 🗨 **Ask me about**: iOS, Swift, Vapor, Python, Machine Learning, AWS, and Android Development
+- 📧 **Reach me at**: **anupsaud10@gmail.com**
 - ⚡ **Fun fact**: I’m always exploring new technologies and love spending time outdoors
 
 ## Connect with me:
@@ -39,7 +39,6 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 - [**Dex3App**](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and explore Pokémon species.
 - [**MedWise**](https://github.com/pawan779/MedWise-Capstone-Project): A medication management app, developed as a capstone project, to help users track their medication schedules.
 
-
 ---
 
 ## GitHub Stats
@@ -53,5 +52,3 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 - 🌟 **1.5 years of experience in iOS development**
 - 🧠 **Proficient in Python, Machine Learning, and AWS**
 - 🚀 **Expertise in Swift, Vapor, SwiftUI, and Core Data**
-
----
