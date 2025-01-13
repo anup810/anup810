@@ -1,60 +1,42 @@
-name: Generate Snake Animation
+name: GitHub Snake Game
 
-# Controls when the workflow will run
 on:
-  # Run at 12:00 UTC every day
+  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 12 * * *"
-
-  # Allows you to run this workflow manually from the Actions tab
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
   workflow_dispatch:
-
-  # Runs on every push to the repository
+  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
-
 jobs:
   generate:
-    name: Generate Snake Animation
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      # Checkout the repository
-      - name: Checkout code
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
-
-      # Generate the Snake animation
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
-          github_user_name: anup810
-          outputs: dist/snake.svg
-
-      # Commit the Snake animation to the repository
-      - name: Commit and Push Snake Animation
-        uses: EndBug/add-and-commit@v9
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "Updated Snake animation"
-          add: "dist/snake.svg"
-
-  update:
-    name: Update GitHub Profile with Snake
-    runs-on: ubuntu-latest
-
-    steps:
-      # Checkout the repository
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      # Push the generated Snake animation to the profile README
-      - name: Push Snake to README
-        run: |
-          sed -i '/<!--snake-start-->/, /<!--snake-end-->/c\<!--snake-start-->\n![Snake animation](dist/snake.svg)\n<!--snake-end-->' README.md
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update README with Snake animation" || echo "No changes to commit"
-          git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
