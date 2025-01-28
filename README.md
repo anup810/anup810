@@ -38,7 +38,6 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 - [**Omnifood**](https://github.com/anup810/Omnifood): A website using HTML and CSS, designed for the Omni Food company to showcase its services.
 - [**Artable**](https://github.com/anup810/Artable): An e-commerce app for browsing and purchasing artwork, complete with an admin interface, Firebase authentication, Firestore database, and Stripe payments.
 - [**Dex3App**](https://github.com/anup810/Dex3App): A Pokémon Dex app to track and explore Pokémon species.
-- [**MedWise**](https://github.com/pawan779/MedWise-Capstone-Project): A medication management app, developed as a capstone project, to help users track their medication schedules.
 
 ---
 
