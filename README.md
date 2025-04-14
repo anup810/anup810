@@ -6,7 +6,7 @@
 
 A passionate iOS and Android developer based in Canada, specializing in crafting seamless, user-centered mobile applications.
 
-- 🌱 **Currently learning**: Android Development
+- 🌱 **Currently learning**: Android Development, preparing for the **AWS Cloud Practitioner** exam
 - 👯 **Looking to collaborate on**: iOS and Android Development projects, and open-source contributions
 - 🗨 **Ask me about**: iOS, Swift, Vapor, Python, Machine Learning, AWS, and Android Development
 - 📧 **Reach me at**: **anupsaud10@gmail.com**
