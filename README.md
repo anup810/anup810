@@ -12,6 +12,10 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 - 📧 **Reach me at**: **anupsaud10@gmail.com**
 - ⚡ **Fun fact**: I’m always exploring new technologies and love spending time outdoors
 
+## Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Passed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupsaud1/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anup810/)
