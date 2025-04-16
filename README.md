@@ -14,7 +14,7 @@ A passionate iOS and Android developer based in Canada, specializing in crafting
 
 ## Certifications
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Passed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Passed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/9c594547e98d47fca0a4fd6f5fc92f23)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupsaud1/)
